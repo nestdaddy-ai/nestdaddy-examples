@@ -1,5 +1,7 @@
 # NestDaddy API and MCP examples
 
+> NestDaddy launched on Product Hunt on 17 Nov 2026. Feedback and reviews welcome: [producthunt.com/products/nestdaddy](https://www.producthunt.com/products/nestdaddy)
+
 [![mcptry](https://mcptry.com/badge/com.nestdaddy/nestdaddy)](https://mcptry.com/servers/com.nestdaddy/nestdaddy)
 
 Working examples for [NestDaddy](https://nestdaddy.com): give your AI today's internet.
