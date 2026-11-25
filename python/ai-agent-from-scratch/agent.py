@@ -3,7 +3,7 @@
 Works with any OpenAI-compatible model: Ollama (free, on your own PC), Gemini, OpenAI, Groq...
 
     pip install openai requests
-    export NESTDADDY_API_KEY="your-key"   # free key, 1,000 calls a month: https://nestdaddy.com/apis
+    export NESTDADDY_API_KEY="your-key"   # every plan starts with 7 days free: https://nestdaddy.com/pricing
     python agent.py "What happened in AI today?"
 """
 import json

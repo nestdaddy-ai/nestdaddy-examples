@@ -18,7 +18,7 @@ pip install -r requirements.txt
 # 1. A free model on your own computer (https://ollama.com)
 ollama pull qwen2.5:7b
 
-# 2. A free news & web search key (1,000 calls a month, no card): https://nestdaddy.com/apis
+# 2. A news & web search key (every plan starts with 7 days free): https://nestdaddy.com/pricing
 export NESTDADDY_API_KEY="your-key"
 
 python agent.py "What happened in AI today?"
