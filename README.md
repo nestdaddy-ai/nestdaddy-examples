@@ -48,13 +48,13 @@ OpenAPI 3.1 spec (import into Postman, Insomnia or a code generator): [nestdaddy
 | [`javascript/`](javascript/) | Node 18+ with the built-in `fetch` |
 | [`mcp/`](mcp/) | Config for Claude, Claude Code, Cursor, VS Code, Windsurf and n8n |
 
-Ready-to-use template: [**news-digest-bot**](https://github.com/nestdaddy/news-digest-bot), a daily news digest
+Ready-to-use template: [**news-digest-bot**](https://github.com/nestdaddy-ai/news-digest-bot), a daily news digest
 to Telegram, Slack or email that runs free on GitHub Actions.
 
 Quick start:
 
 ```bash
-git clone https://github.com/nestdaddy/nestdaddy-examples
+git clone https://github.com/nestdaddy-ai/nestdaddy-examples
 cd nestdaddy-examples
 python python/news_search.py "interest rate" --country US
 node javascript/search.mjs "rust error handling"
